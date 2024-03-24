@@ -1,2 +1,2 @@
-# Calculator
+# CODEWAY
 I Developed this Calculator using Python
